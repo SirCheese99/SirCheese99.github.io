@@ -1,0 +1,12 @@
+body {
+    background-color: yellow;
+}
+h1 {
+    color: darkorange;
+    text-align: center;
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+    color: darkorange;
+}
