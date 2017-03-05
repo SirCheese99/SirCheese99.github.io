@@ -1,0 +1,5 @@
+ alert('HELLO')
+alert('HAHA I RULE YOUR COMPUTER NOW')
+alert('NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO THERE IS A VIRUS')
+alert('H31P M33333333333333333')
+alert('------------------------------------')
